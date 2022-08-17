@@ -12,3 +12,5 @@ Zu wkProjects gehören derzeit folgende Projekte:
 
 ## Support
 Support für unsere Projekte gibt es im [Webkicks-Forum](https://webkicks.de/forum/viewforum.php?f=19).
+
+[Impressum](./impressum.html)
