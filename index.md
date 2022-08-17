@@ -3,8 +3,6 @@ layout: default
 permalink: /
 ---
 
-# wkProjects.org
-
 ## Projekte
 
 ### wkstats.de
