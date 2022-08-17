@@ -1,14 +1,13 @@
 ---
 layout: default
-permalink: /
 ---
 
-## Projekte
+Zu wkProjects gehören derzeit folgende Projekte:
 
-### wkstats.de
+## wkstats.de
 [wkstats.de](https://wkstats.de) ist ein kostenloses Analytics-Tool für [WebKicks-Chats](https://www.webkicks.de).
 
-### wkQB.de
+## wkQB.de
 [wkqb.de](https://wkqb.de) ist ein Chatbot für [WebKicks-Chats](https://www.webkicks.de).
 
 ## Support
